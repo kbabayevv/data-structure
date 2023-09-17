@@ -1,0 +1,14 @@
+book 15
+book 20
+apple 30
+phone 5
+book 12
+notebook 56
+book 10
+apple 7
+car 10
+pen 5
+pencil 50
+phone 10
+phone 30
+car 10
