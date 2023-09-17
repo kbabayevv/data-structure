@@ -2,12 +2,10 @@ package corejavatasks.project;
 
 import java.util.Arrays;
 import java.util.List;
-import java.util.function.Function;
 
-import static project.ApplicationConstant.persons;
 
 public class Main {
-    public static void main(String [] args) {
+    public static void main(String[] args) {
         PersonsService personsService = new PersonsService();
         personsService.createPerson.accept(new Person("Kamran",
                 "Babayev",

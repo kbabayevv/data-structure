@@ -1,6 +1,8 @@
 package corejavatasks.sellingproduct.main;
 
-import sellingproduct.productservice.ProductConfigService;
+
+
+import corejavatasks.sellingproduct.productservice.ProductConfigService;
 
 import java.util.Scanner;
 

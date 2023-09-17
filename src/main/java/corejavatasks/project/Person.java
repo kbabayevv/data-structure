@@ -1,6 +1,6 @@
 package corejavatasks.project;
 
-import project.Gender;
+
 
 public class Person {
     private String name;

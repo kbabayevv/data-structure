@@ -1,6 +1,7 @@
 package corejavatasks.example.model;
 
-import org.example.config.StudentConfig;
+import corejavatasks.example.config.StudentConfig;
+import corejavatasks.example.model.Student;
 
 import java.util.Arrays;
 

@@ -1,6 +1,7 @@
 package corejavatasks.example.config;
 
-import org.example.model.Student;
+import corejavatasks.example.model.Student;
+
 
 public class StudentConfig {
     public static Student[] students = new Student[1];

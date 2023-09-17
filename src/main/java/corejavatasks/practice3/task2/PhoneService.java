@@ -1,7 +1,7 @@
 package corejavatasks.practice3.task2;
 
 
-import practice3.task2.Phone;
+
 
 public class PhoneService {
     public static void main(String[] args) {

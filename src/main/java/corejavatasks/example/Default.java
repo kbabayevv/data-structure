@@ -1,8 +1,8 @@
 package corejavatasks.example;
 
 
-import org.example.model.Student;
-import org.example.model.StudentService;
+import corejavatasks.example.model.StudentService;
+import corejavatasks.example.model.Student;
 
 import java.util.Scanner;
 

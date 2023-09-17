@@ -6,7 +6,8 @@ import java.util.function.Function;
 import java.util.function.Supplier;
 import java.util.stream.Collectors;
 
-import static project.ApplicationConstant.persons;
+import static corejavatasks.project.ApplicationConstant.persons;
+
 
 public class PersonsService {
     public Consumer<Person> createPerson = person -> persons.add(person);

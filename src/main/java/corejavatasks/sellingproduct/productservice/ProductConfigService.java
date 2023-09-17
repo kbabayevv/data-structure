@@ -3,7 +3,8 @@ package corejavatasks.sellingproduct.productservice;
 import java.io.*;
 import java.util.Scanner;
 
-import static sellingproduct.config.ProductConfig.soldItems;
+import static corejavatasks.sellingproduct.config.ProductConfig.soldItems;
+
 
 public class ProductConfigService implements Serializable {
 
