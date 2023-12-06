@@ -1,8 +1,8 @@
-package corejavatasks.practice4;
+package corejavatasks.tasks4;
 
 public class ArrayDuplicateNumber {
     public static void main(String[] args) {
-        int[] arr = {1, 2, 3, 4};
+        int[] arr = {1, 2, 3, 4, 4, 2};
         printDuplicateNumber(arr);
 
     }

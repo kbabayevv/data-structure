@@ -10,27 +10,17 @@ public class FindArrIndex {
         System.out.println("Enter element: ");
         int element = sc.nextInt();
 
-//        boolean b = true;
-//        for (int i = 0; i < arr.length; i++) {
-//            if (arr[i] == element) {
-//                System.out.println("Index of " + element + " is " + i);
-//                b = false;
-//                break;
-//            }
-//        }
-//        if (b) {
-//            System.out.println("Index is not found");
-//        }
-        int i = 0;
-        while (i<arr.length){
+        boolean b = true;
+        for (int i = 0; i < arr.length; i++) {
             if (arr[i] == element) {
                 System.out.println("Index of " + element + " is " + i);
+                b = false;
                 break;
             }
-            i++;
         }
-        System.out.println("Index is not found");
-
+        if (b) {
+            System.out.println("Index is not found");
+        }
     }
 }
 
